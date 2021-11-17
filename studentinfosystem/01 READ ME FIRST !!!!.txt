@@ -1,0 +1,13 @@
+Student Information System in PHP
+
+**LOGIN DETAILS*
+
+Username : uspfstudent
+
+Password : 1234567
+
+Create Database on xampp (phpmyadmin) "studentinfosystem" AND IMPORT THE DATBASE SQL FILE (studentinfosystem.sql)
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>> THE DATABASE FILE IS INSIDE "DATABASE" FOLDER!!
+
